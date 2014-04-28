@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>	
+	<title>Test01</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+	<div class="header-wrapper">
+		<div class="inner-header-wrapp globalwidth">
+			<h1 class="left">Website A</h1>
+			<div class="right login-wrapp">
+				<ul>
+					<li><a href="#">Login</a></li>
+					<li><a href="#">Join</a></li>
+				</ul>
+			</div>
+		</div>
+	</div><!--end of header-->
+	<div class="content-wrapper globalwidth">
+		<div class="prod-name-wrapp">
+			<h1>Name of Product</h1>
+			<div class="wrapp-info">
+				<div class="prod-thumb left"></div>
+				<div class="prod-right-info left">
+					<div class="recommend-wrapp">
+						<ul>
+							<li></li>
+							<li></li>
+							<li></li>
+						</ul>
+						<p>and 393 people recommend this product</p>
+					</div>
+					<ul class="prod-info-btn">
+						<li><a class="buy" href="#">Buy</a></li>
+						<li><a class="sell" href="#">Sell</a></li>
+					</ul>
+				</div>
+			</div>
+		</div><!--end of prod-name-->
+		<div class="user-wrapp">
+			<ul>
+				<li class="user-list-wrapp">
+					<div class="user-info-wrapp">
+						<div class="user-thumb left"></div>
+						<h2>Username</h2>
+						<span>May 1, 2014</span>
+					</div>
+					<div class="user-desc-wrapp">
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+							Sed cursus, nisl sed faucibus egestas, tellus lacus posuere sem, interdum auctor turpis nisi facilisis justo. Etiam euismod lobortis sem facilisis tempor. 
+
+							Ut mi libero, pellentesque eu elit sed, posuere consequat tellus. Vestibulum mollis rutrum eros, hendrerit faucibus est sodales ut. Maecenas dapibus mi sed nisl sodales, eget fringilla mi imperdiet. Maecenas luctus consequat pretium. 
+						</p>
+					</div>
+				</li>
+				<li class="user-list-wrapp">
+					<div class="user-info-wrapp">
+						<div class="user-thumb left"></div>
+						<h2>Username</h2>
+						<span>May 1, 2014</span>
+					</div>
+					<div class="user-desc-wrapp">
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+							Sed cursus, nisl sed faucibus egestas, tellus lacus posuere sem, interdum auctor turpis nisi facilisis justo. Etiam euismod lobortis sem facilisis tempor. 
+
+							Ut mi libero, pellentesque eu elit sed, posuere consequat tellus. Vestibulum mollis rutrum eros, hendrerit faucibus est sodales ut. Maecenas dapibus mi sed nisl sodales, eget fringilla mi imperdiet. Maecenas luctus consequat pretium. 
+						</p>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<div class="sidepanel"></div>
+	</div><!--end of content-wrapper-->
+	<div class="footer-wrapper"></div>
+</body>
+</html>
